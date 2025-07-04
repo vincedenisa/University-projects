@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\faculta\\mobile\\GymRepsBE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4709E503-83D2-4C57-8560-45606033E433}|GymRepsBE\\GymRepsBE.njsproj|C:\\faculta\\mobile\\GymRepsBE\\GymRepsBE\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4709E503-83D2-4C57-8560-45606033E433}|GymRepsBE\\GymRepsBE.njsproj|solutionrelative:GymRepsBE\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4709E503-83D2-4C57-8560-45606033E433}|GymRepsBE\\GymRepsBE.njsproj|C:\\faculta\\mobile\\GymRepsBE\\GymRepsBE\\sockets\\websocket.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4709E503-83D2-4C57-8560-45606033E433}|GymRepsBE\\GymRepsBE.njsproj|solutionrelative:GymRepsBE\\sockets\\websocket.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4709E503-83D2-4C57-8560-45606033E433}|GymRepsBE\\GymRepsBE.njsproj|C:\\faculta\\mobile\\GymRepsBE\\GymRepsBE\\database\\database.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4709E503-83D2-4C57-8560-45606033E433}|GymRepsBE\\GymRepsBE.njsproj|solutionrelative:GymRepsBE\\database\\database.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "server.js",
+              "DocumentMoniker": "C:\\faculta\\mobile\\GymRepsBE\\GymRepsBE\\server.js",
+              "RelativeDocumentMoniker": "GymRepsBE\\server.js",
+              "ToolTip": "C:\\faculta\\mobile\\GymRepsBE\\GymRepsBE\\server.js",
+              "RelativeToolTip": "GymRepsBE\\server.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-14T18:53:08.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "websocket.js",
+              "DocumentMoniker": "C:\\faculta\\mobile\\GymRepsBE\\GymRepsBE\\sockets\\websocket.js",
+              "RelativeDocumentMoniker": "GymRepsBE\\sockets\\websocket.js",
+              "ToolTip": "C:\\faculta\\mobile\\GymRepsBE\\GymRepsBE\\sockets\\websocket.js",
+              "RelativeToolTip": "GymRepsBE\\sockets\\websocket.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-14T18:42:41.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "database.js",
+              "DocumentMoniker": "C:\\faculta\\mobile\\GymRepsBE\\GymRepsBE\\database\\database.js",
+              "RelativeDocumentMoniker": "GymRepsBE\\database\\database.js",
+              "ToolTip": "C:\\faculta\\mobile\\GymRepsBE\\GymRepsBE\\database\\database.js",
+              "RelativeToolTip": "GymRepsBE\\database\\database.js",
+              "ViewState": "AgIAADMAAAAAAAAAAAAiwEsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-14T18:40:55.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
