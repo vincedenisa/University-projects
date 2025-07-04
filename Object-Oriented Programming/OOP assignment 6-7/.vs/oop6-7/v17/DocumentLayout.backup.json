@@ -1,0 +1,613 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vince\\source\\repos\\oop6-7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\file_repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\file_repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\ui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\ui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\trench_coat_validator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\trench_coat_validator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\trench_coat_validator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\trench_coat_validator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\trench_coat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\trench_coat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\trench_coat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\trench_coat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\store_repo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\store_repo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\sqlite3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\sqlite3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\sqlite3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\sqlite3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\sql_store_repo.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\sql_store_repo.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\sql_repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\sql_repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\sql_repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\sql_repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\size_filter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\size_filter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\in_memory_repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\in_memory_repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\in_memory_repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\in_memory_repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\html_basket_repo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\html_basket_repo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\file_repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\file_repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\exceptions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\exceptions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\dynamic_vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\dynamic_vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\dynamic_array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\dynamic_array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\dynamic_array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\dynamic_array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\basket_repo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\basket_repo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\basket_html_repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\basket_html_repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\basket_html_repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\basket_html_repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\basket_file_repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\basket_file_repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\basket_file_repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\basket_file_repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\basket_csv_repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\basket_csv_repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\basket_csv_repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\basket_csv_repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\abstract_repository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\abstract_repository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\abstract_filter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2CEF8-300C-464B-A6A8-244F5F4293C5}|oop6-7\\oop6-7.vcxproj|solutionrelative:oop6-7\\abstract_filter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ui.h",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\ui.h",
+              "RelativeDocumentMoniker": "oop6-7\\ui.h",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\ui.h",
+              "RelativeToolTip": "oop6-7\\ui.h",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T02:38:55.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ui.cpp",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\ui.cpp",
+              "RelativeDocumentMoniker": "oop6-7\\ui.cpp",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\ui.cpp",
+              "RelativeToolTip": "oop6-7\\ui.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T02:38:36.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "trench_coat_validator.h",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\trench_coat_validator.h",
+              "RelativeDocumentMoniker": "oop6-7\\trench_coat_validator.h",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\trench_coat_validator.h",
+              "RelativeToolTip": "oop6-7\\trench_coat_validator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T02:38:13.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "trench_coat_validator.cpp",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\trench_coat_validator.cpp",
+              "RelativeDocumentMoniker": "oop6-7\\trench_coat_validator.cpp",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\trench_coat_validator.cpp",
+              "RelativeToolTip": "oop6-7\\trench_coat_validator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T02:37:54.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "trench_coat.h",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\trench_coat.h",
+              "RelativeDocumentMoniker": "oop6-7\\trench_coat.h",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\trench_coat.h",
+              "RelativeToolTip": "oop6-7\\trench_coat.h",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T02:36:59.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\main.cpp",
+              "RelativeDocumentMoniker": "oop6-7\\main.cpp",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\main.cpp",
+              "RelativeToolTip": "oop6-7\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T02:32:54.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "file_repo.cpp",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\file_repo.cpp",
+              "RelativeDocumentMoniker": "oop6-7\\file_repo.cpp",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\file_repo.cpp",
+              "RelativeToolTip": "oop6-7\\file_repo.cpp",
+              "ViewState": "AgIAADoAAAAAAAAAAAAIwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T02:31:16.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "service.cpp",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\service.cpp",
+              "RelativeDocumentMoniker": "oop6-7\\service.cpp",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\service.cpp",
+              "RelativeToolTip": "oop6-7\\service.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T02:33:53.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "trench_coat.cpp",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\trench_coat.cpp",
+              "RelativeDocumentMoniker": "oop6-7\\trench_coat.cpp",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\trench_coat.cpp",
+              "RelativeToolTip": "oop6-7\\trench_coat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T02:36:46.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "store_repo.txt",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\store_repo.txt",
+              "RelativeDocumentMoniker": "oop6-7\\store_repo.txt",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\store_repo.txt",
+              "RelativeToolTip": "oop6-7\\store_repo.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-22T02:36:38.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "sqlite3.h",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\sqlite3.h",
+              "RelativeDocumentMoniker": "oop6-7\\sqlite3.h",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\sqlite3.h",
+              "RelativeToolTip": "oop6-7\\sqlite3.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T02:36:34.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "sqlite3.c",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\sqlite3.c",
+              "RelativeDocumentMoniker": "oop6-7\\sqlite3.c",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\sqlite3.c",
+              "RelativeToolTip": "oop6-7\\sqlite3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-22T02:36:20.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "sql_store_repo.db",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\sql_store_repo.db",
+              "RelativeDocumentMoniker": "oop6-7\\sql_store_repo.db",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\sql_store_repo.db",
+              "RelativeToolTip": "oop6-7\\sql_store_repo.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJESURBVEhLtZVPSJNhHMc/e7e5lgSLDvmng\u002BmSpRUmCWmEipeMQurQMRSPQhRzWQMbYWgy\u002BnOI6BB48FxdQggKjwbSf8KihSuTOoXbym2\u002Bz/s\u002BHdLYnvaYS/zc3u/z/fF53n88sJFIKR251xcHQrMgq3IzPY64sDkRjUZfqiu5KIJ\u002BeXloODfSEhkM4/V6F1I/M\u002B2rSQw1KIbunl7fltJNk6FQqEFdW2FdgrLyin9K1iVgDRKXGqiYwmLy6Qtsy6bjUCNu1\u002B8Rn89HZDCcW/W5DCaBrbmhVrCYyRKf\u002B4otJZl0Btu2ic1\u002B4ftCgob6Ws4Fz6sjRAbDPjXTPqJXMzFin\u002BaJxecwhUAIwZt3H/g8/41nr2fUuhatoM5fheEAISw62w7S2d6MWBbtDfjVuhatQEpJOp3BEgIpJVJKhBA4DbClrda1aAVv339c3rHJ/Ykn3Hv4GEsIFtNppqa1/9VfaAUN9bVUbN/GnkANQpgIyySwq5q62hpaW5rUuhatoHSzl9bmA\u002Bz2V\u002BM0DFyGQeO\u002BOlqa9nN7bJyRG7fUkYJoP9MVSkrcnD7VBcCDiUdMTT8nlUohzCX6ggN0tB3m5PFj6tgftHdQCI/HQzKZ5Eo4xMilMIlEAmmt/sKLElhLJuZSFiltpLQxs1mEEGotj6IEtrRwO52c6b9A39l\u002BSlxOfqSSai2PogRdR49w52aUyvIydlSWMT52l96ebrWWR1GCFaLDQ1wfvarGBfkvQTFsuEA5k4Oz4FjjoV8IGR8ZvbZTTTeUX7HY4yPt\u002Bo73AAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-05-22T02:36:17.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "sql_repo.h",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\sql_repo.h",
+              "RelativeDocumentMoniker": "oop6-7\\sql_repo.h",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\sql_repo.h",
+              "RelativeToolTip": "oop6-7\\sql_repo.h",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T02:35:50.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "sql_repo.cpp",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\sql_repo.cpp",
+              "RelativeDocumentMoniker": "oop6-7\\sql_repo.cpp",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\sql_repo.cpp",
+              "RelativeToolTip": "oop6-7\\sql_repo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T02:35:36.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "size_filter.h",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\size_filter.h",
+              "RelativeDocumentMoniker": "oop6-7\\size_filter.h",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\size_filter.h",
+              "RelativeToolTip": "oop6-7\\size_filter.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T02:35:10.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "service.h",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\service.h",
+              "RelativeDocumentMoniker": "oop6-7\\service.h",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\service.h",
+              "RelativeToolTip": "oop6-7\\service.h",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T02:34:24.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "in_memory_repo.h",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\in_memory_repo.h",
+              "RelativeDocumentMoniker": "oop6-7\\in_memory_repo.h",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\in_memory_repo.h",
+              "RelativeToolTip": "oop6-7\\in_memory_repo.h",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T02:32:38.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "in_memory_repo.cpp",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\in_memory_repo.cpp",
+              "RelativeDocumentMoniker": "oop6-7\\in_memory_repo.cpp",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\in_memory_repo.cpp",
+              "RelativeToolTip": "oop6-7\\in_memory_repo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T02:32:22.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "html_basket_repo.html",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\html_basket_repo.html",
+              "RelativeDocumentMoniker": "oop6-7\\html_basket_repo.html",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\html_basket_repo.html",
+              "RelativeToolTip": "oop6-7\\html_basket_repo.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-22T02:32:19.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "file_repo.h",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\file_repo.h",
+              "RelativeDocumentMoniker": "oop6-7\\file_repo.h",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\file_repo.h",
+              "RelativeToolTip": "oop6-7\\file_repo.h",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T02:31:54.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "exceptions.h",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\exceptions.h",
+              "RelativeDocumentMoniker": "oop6-7\\exceptions.h",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\exceptions.h",
+              "RelativeToolTip": "oop6-7\\exceptions.h",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T02:30:58.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dynamic_vector.h",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\dynamic_vector.h",
+              "RelativeDocumentMoniker": "oop6-7\\dynamic_vector.h",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\dynamic_vector.h",
+              "RelativeToolTip": "oop6-7\\dynamic_vector.h",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAAAAwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T02:27:55.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "dynamic_array.h",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\dynamic_array.h",
+              "RelativeDocumentMoniker": "oop6-7\\dynamic_array.h",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\dynamic_array.h",
+              "RelativeToolTip": "oop6-7\\dynamic_array.h",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T02:27:25.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dynamic_array.cpp",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\dynamic_array.cpp",
+              "RelativeDocumentMoniker": "oop6-7\\dynamic_array.cpp",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\dynamic_array.cpp",
+              "RelativeToolTip": "oop6-7\\dynamic_array.cpp",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T02:27:03.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "oop6-7\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\CMakeLists.txt",
+              "RelativeToolTip": "oop6-7\\CMakeLists.txt",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-22T02:26:10.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "basket_repo.txt",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\basket_repo.txt",
+              "RelativeDocumentMoniker": "oop6-7\\basket_repo.txt",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\basket_repo.txt",
+              "RelativeToolTip": "oop6-7\\basket_repo.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-22T02:26:08.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "basket_html_repo.h",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\basket_html_repo.h",
+              "RelativeDocumentMoniker": "oop6-7\\basket_html_repo.h",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\basket_html_repo.h",
+              "RelativeToolTip": "oop6-7\\basket_html_repo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T02:25:53.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "basket_html_repo.cpp",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\basket_html_repo.cpp",
+              "RelativeDocumentMoniker": "oop6-7\\basket_html_repo.cpp",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\basket_html_repo.cpp",
+              "RelativeToolTip": "oop6-7\\basket_html_repo.cpp",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T02:25:18.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "basket_file_repo.h",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\basket_file_repo.h",
+              "RelativeDocumentMoniker": "oop6-7\\basket_file_repo.h",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\basket_file_repo.h",
+              "RelativeToolTip": "oop6-7\\basket_file_repo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T02:25:02.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "basket_file_repo.cpp",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\basket_file_repo.cpp",
+              "RelativeDocumentMoniker": "oop6-7\\basket_file_repo.cpp",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\basket_file_repo.cpp",
+              "RelativeToolTip": "oop6-7\\basket_file_repo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T02:24:42.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "basket_csv_repo.h",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\basket_csv_repo.h",
+              "RelativeDocumentMoniker": "oop6-7\\basket_csv_repo.h",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\basket_csv_repo.h",
+              "RelativeToolTip": "oop6-7\\basket_csv_repo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T02:24:26.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "basket_csv_repo.cpp",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\basket_csv_repo.cpp",
+              "RelativeDocumentMoniker": "oop6-7\\basket_csv_repo.cpp",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\basket_csv_repo.cpp",
+              "RelativeToolTip": "oop6-7\\basket_csv_repo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T02:24:13.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "abstract_repository.h",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\abstract_repository.h",
+              "RelativeDocumentMoniker": "oop6-7\\abstract_repository.h",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\abstract_repository.h",
+              "RelativeToolTip": "oop6-7\\abstract_repository.h",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T02:23:45.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "abstract_filter.h",
+              "DocumentMoniker": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\abstract_filter.h",
+              "RelativeDocumentMoniker": "oop6-7\\abstract_filter.h",
+              "ToolTip": "C:\\Users\\vince\\source\\repos\\oop6-7\\oop6-7\\abstract_filter.h",
+              "RelativeToolTip": "oop6-7\\abstract_filter.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-22T02:23:21.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
