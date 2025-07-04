@@ -1,0 +1,14 @@
+1;Which number is the largest;1;4;3;4;easy
+2;Which number is the smallest;-3;0;3;-3;easy
+3;Which number is prime;2;32;9;2;easy
+4;Which country has the largest GPD;UK;China;Brazil;China;medium
+5;Which is not a fish;carp;orca;eel;orca;medium
+6;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+7;Which is not a mammal;dog;whale;snake;snake;medium
+8;Which Apollo mision did not land on the moon;11;12;13;13;hard
+9;A mole can be;animal;quantity;both;both;hard
+10;Which is not a planet;Earth;Pluto;Jupiter;Pluto;medium
+11;The Western Roman Empire fell in;564;674;476;476;hard
+12;Where is the largest desert in the world;Antarctica;Sahara;Arabian;Antarctica;hard
+13;What is the capital of the United Kingdom;London;Manchester;Birmingham;London;medium
+14;What is the capital of the United States;Washington;New York;Los Angeles;Washington;medium

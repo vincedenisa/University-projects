@@ -1,0 +1,15 @@
+start {
+
+integer 1a;
+integer b;
+integer sum;
+
+read a;
+read b;
+
+sum = 0;
+sum+=a;
+sum = sum + b;
+
+write "The sum of the two numbers is: " > sum;
+}
